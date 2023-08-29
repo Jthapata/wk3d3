@@ -1,3 +1,9 @@
 * {
     font-family: 'Phudu', cursive;
+    padding: 0;
+    margin: 0;
+
+}
+img {
+    height: 350px;
 }
